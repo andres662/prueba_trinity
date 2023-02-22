@@ -1,0 +1,53 @@
+Atributos para la tabla de inventario
+
+- id 
+- nombbre producto
+- categoria_producto
+
+Se va a manejar 3 categorias
+- cosmeticos
+- accesorios
+- cuidado_pelo
+
+
+
+Atributos para la tabla de productos 
+
+- id
+- nombre
+- descripcion 
+- precio
+- cantidad 
+- total
+- llave forarena del inventario
+
+Atributos para la tabla de cliente 
+
+- id
+- cedula
+- direccion
+- llave forarena del producto
+- llave forarena de la venta
+
+Atributos para la tabla de departamento_venta
+
+- nombreVendedor
+- categoria 
+
+Atributos para la tabla de plan separe 
+
+id 
+- llave forarena del cliente
+- productos separados 
+- cantidad de compras 
+
+Video para el ruteo entre cmponentes 
+https://www.youtube.com/watch?v=JbtvuQDKvOU
+
+
+
+
+
+
+
+
